@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Company A",
+        "position": "Web Developer",
+        "duration": "Jan 2017 - Present",
+        "description": "Worked on various web development projects."
+    },
+    {
+        "company": "Company B",
+        "position": "Web Developer",
+        "duration": "Feb 2018 - Dec 2023",
+        "description": "Developed responsive websites and web applications."
+    }
+]
